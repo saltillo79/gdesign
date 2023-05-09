@@ -15,7 +15,7 @@ cat << EOF > ${CONFIG}/config.json
         "protocol": "vmess",
         "settings": {
             "clients": [{
-                "id": "****",
+                "id": "0dd29db0-1a66-4cd8-bddd-5a250e5000f3",
                 "alterId": 0
             }]
         },
